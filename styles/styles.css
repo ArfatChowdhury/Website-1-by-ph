@@ -126,3 +126,7 @@ font-style: normal;
 font-weight: 400;
 
 }
+.about-info-container{
+    display: flex;
+    gap: 24px; ;
+}
